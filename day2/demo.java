@@ -3,6 +3,7 @@ package day2;
 public class demo {
 	String name;
 	int num;
+	String p="priya";
 	
 
 	public demo(String name, int num) {
