@@ -17,6 +17,11 @@ public class demo {
 		System.out.println(num);
 		
 	}
+	public void display2() {
+		num=5/2;
+		System.out.println(num);
+		
+	}
 	protected void play() {
 		name="sohan";
 		System.out.println(name);

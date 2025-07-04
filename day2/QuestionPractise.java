@@ -4,6 +4,7 @@ public class QuestionPractise extends demo {
 	
 		public QuestionPractise(String name, int num) {
 		super(name, num);
+		int m;
 	// TODO Auto-generated constructor stub
   }
 	

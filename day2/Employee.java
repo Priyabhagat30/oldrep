@@ -4,6 +4,7 @@ public class Employee implements  {
 
 	 int empid;
 	 String name;
+	 int p;
 	 
 	public Employee(int empid, String name) {
 		super();

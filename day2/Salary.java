@@ -5,6 +5,7 @@ import java.util.*;
 public class Salary implements Comparable<Salary> {
 	String name;
 	int price;
+	int c;
 
 	public Salary(String name, int price) {
 		super();
